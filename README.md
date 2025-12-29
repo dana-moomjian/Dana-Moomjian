@@ -1,4 +1,5 @@
-<h1>I am a third-year student at the University of Connecticut studying Business Data Analytics.
+<h1>Hi, I'm Dana!
+I am a third-year student at the University of Connecticut studying Business Data Analytics.
 I enjoy turning messy data into meaningful insights and using analysis to better understand
 real-world trends. I am currently seeking internships and hands-on opportunities in data analytics.
 
