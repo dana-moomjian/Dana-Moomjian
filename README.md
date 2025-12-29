@@ -1,6 +1,8 @@
-<h1>Hi, I'm Dana!
+<h1>I am a third-year student at the University of Connecticut studying Business Data Analytics.
+I enjoy turning messy data into meaningful insights and using analysis to better understand
+real-world trends. I am currently seeking internships and hands-on opportunities in data analytics.
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+  <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - (https://github.com/dana-moomjian/Connecticut-Socioeconomic-Analysis)
 
@@ -10,7 +12,4 @@
 
 
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning: Advanced Python and SQL
-- ⚡ Fun fact: I've been to 48 US States!
