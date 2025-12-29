@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Dana!
 
-<!--
-**dana-moomjian/Dana-Moomjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-moomjian
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
